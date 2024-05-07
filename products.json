@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "name": "Siemens KA90GAI20N Kodlu Çift Kapaklı Buzdolabı",
+    "category": "Buzdolabı",
+    "price": 5000,
+    "description": "İkinci EL spot olarak ikinci el, spot ve sıfır ürünlerin alış ve satış hizmetlerini yürütmekteyiz. Hafta içi cumartesi dahil olmak üzere satış ve servis hizmeti alabilirsiniz. Her günü  satış mağazamız açıktır, teknik servis hizmetimiz vardır.",
+    "stock": 10,
+    "imgSource": "./assets/images/products/buzdolabi1.jpg",
+    "htmlSource": "./assets/product_links/buzdolabi1.html",
+    "type": "BUZDOLABI"
+  },
+  {
+    "id": 2,
+    "name": "Siemens Inox Buzdolabı",
+    "category": "Buzdolabı",
+    "price": 2500,
+    "description": "İkinci EL spot olarak ikinci el, spot ve sıfır ürünlerin alış ve satış hizmetlerini yürütmekteyiz. Hafta içi cumartesi dahil olmak üzere satış ve servis hizmeti alabilirsiniz. Her günü  satış mağazamız açıktır, teknik servis hizmetimiz vardır.",
+    "stock": 7,
+    "imgSource": "./assets/images/products/buzdolabi2.jpg",
+    "htmlSource": "./assets/product_links/buzdolabi2.html",
+    "type": "BUZDOLABI"
+  },
+  {
+    "id": 3,
+    "name": "Vestel BZP-L3302W Buzdolabı",
+    "category": "Buzdolabı",
+    "price": 1500,
+    "description": "İkinci EL spot olarak ikinci el, spot ve sıfır ürünlerin alış ve satış hizmetlerini yürütmekteyiz. Hafta içi cumartesi dahil olmak üzere satış ve servis hizmeti alabilirsiniz. Her günü  satış mağazamız açıktır, teknik servis hizmetimiz vardır.",
+
+    "stock": 3,
+    "imgSource": "./assets/images/products/buzdolabi3.jpg",
+    "htmlSource": "./assets/product_links/buzdolabi3.html",
+    "type": "BUZDOLABI"
+  },
+  {
+    "id": 4,
+    "name": "Modoko Koltuk",
+    "category": "Koltuk",
+    "price": 1200,
+    "description": "İkinci EL spot olarak ikinci el, spot ve sıfır ürünlerin alış ve satış hizmetlerini yürütmekteyiz. Hafta içi cumartesi dahil olmak üzere satış ve servis hizmeti alabilirsiniz. Her günü  satış mağazamız açıktır, teknik servis hizmetimiz vardır.",
+    "stock": 6,
+    "imgSource": "./assets/images/products/koltuk1.jpg",
+    "htmlSource": "./assets/product_links/koltuk1.html",
+    "type": "KOLTUK"
+  },
+  {
+    "id": 5,
+    "name": "İstikbal Üçlü Çekyat Koltuk",
+    "category": "Koltuk",
+    "price": 1450,
+    "description": "İkinci EL spot olarak ikinci el, spot ve sıfır ürünlerin alış ve satış hizmetlerini yürütmekteyiz. Hafta içi cumartesi dahil olmak üzere satış ve servis hizmeti alabilirsiniz. Her günü  satış mağazamız açıktır, teknik servis hizmetimiz vardır.",
+
+    "stock": 6,
+    "imgSource": "./assets/images/products/koltuk2.jpg",
+    "htmlSource": "./assets/product_links/koltuk2.html",
+    "type": "KOLTUK"
+  },
+  {
+    "id": 6,
+    "name": "Siemens Çamaşır Makinesi  7 Kg ",
+    "category": "Çamaşır Makinesi",
+    "price": 1650,
+    "description": "İkinci EL spot olarak ikinci el, spot ve sıfır ürünlerin alış ve satış hizmetlerini yürütmekteyiz. Hafta içi cumartesi dahil olmak üzere satış ve servis hizmeti alabilirsiniz. Her günü  satış mağazamız açıktır, teknik servis hizmetimiz vardır.",
+
+    "stock": 6,
+    "imgSource": "./assets/images/products/camasir1.jpg",
+    "htmlSource": "./assets/product_links/camasir1.html",
+    "type": "CAMASIR"
+  },
+  {
+    "id": 7,
+    "name": "Arçelik 3883 kt Çamaşır Makinesi",
+    "category": "Çamaşır Makinesi",
+    "price": 2560,
+    "description": "İkinci EL spot olarak ikinci el, spot ve sıfır ürünlerin alış ve satış hizmetlerini yürütmekteyiz. Hafta içi cumartesi dahil olmak üzere satış ve servis hizmeti alabilirsiniz. Her günü  satış mağazamız açıktır, teknik servis hizmetimiz vardır.",
+
+    "stock": 2,
+    "imgSource": "./assets/images/products/camasir2.jpg",
+    "htmlSource": "./assets/product_links/camasir2.html",
+    "type": "CAMASIR"
+  },
+
+  {
+    "id": 8,
+    "name": "Samsung Çamaşır Makinesi",
+    "category": "Çamaşır Makinesi",
+    "price": 1700,
+    "description": "İkinci EL spot olarak ikinci el, spot ve sıfır ürünlerin alış ve satış hizmetlerini yürütmekteyiz. Hafta içi cumartesi dahil olmak üzere satış ve servis hizmeti alabilirsiniz. Her günü  satış mağazamız açıktır, teknik servis hizmetimiz vardır.",
+
+    "stock": 1,
+    "imgSource": "./assets/images/products/camasir3.jpg",
+    "htmlSource": "./assets/product_links/camasir3.html",
+    "type": "CAMASIR"
+  },
+  {
+    "id": 9,
+    "name": "Arçelik 6343 A+ 4 Programlı Bulaşık Makinesi",
+    "category": "Bulaşık Makinesi",
+    "price": 2800,
+    "description": "İkinci EL spot olarak ikinci el, spot ve sıfır ürünlerin alış ve satış hizmetlerini yürütmekteyiz. Hafta içi cumartesi dahil olmak üzere satış ve servis hizmeti alabilirsiniz. Her günü  satış mağazamız açıktır, teknik servis hizmetimiz vardır.",
+    "stock": 8,
+    "imgSource": "./assets/images/products/bulasik1.jpg",
+    "htmlSource": "./assets/product_links/bulasik1.html",
+    "type": "BULASIK"
+  },
+  {
+    "id": 10,
+    "name": "Bosch SMS58M92 Bulaşık Makinesi",
+    "category": "Bulaşık Makinesi",
+    "price": 1450,
+    "description": "İkinci EL spot olarak ikinci el, spot ve sıfır ürünlerin alış ve satış hizmetlerini yürütmekteyiz. Hafta içi cumartesi dahil olmak üzere satış ve servis hizmeti alabilirsiniz. Her günü  satış mağazamız açıktır, teknik servis hizmetimiz vardır.",
+    "stock": 5,
+    "imgSource": "./assets/images/products/bulasik2.jpg",
+    "htmlSource": "./assets/product_links/bulasik2.html",
+    "type": "BULASIK"
+  },
+  {
+    "id": 11,
+    "name": "Bosh Gri Ocaklı Fırın",
+    "category": "Fırın",
+    "price": 1850,
+    "description": "İkinci EL spot olarak ikinci el, spot ve sıfır ürünlerin alış ve satış hizmetlerini yürütmekteyiz. Hafta içi cumartesi dahil olmak üzere satış ve servis hizmeti alabilirsiniz. Her günü  satış mağazamız açıktır, teknik servis hizmetimiz vardır.",
+    "stock": 2,
+    "imgSource": "./assets/images/products/fırın1.jpg",
+    "htmlSource": "./assets/product_links/firin1.html",
+    "type": "FIRIN"
+  },
+  {
+    "id": 12,
+    "name": "Arçelik Beyaz Ocaklı Fırın",
+    "category": "Fırın",
+    "price": 1360,
+    "description": "İkinci EL spot olarak ikinci el, spot ve sıfır ürünlerin alış ve satış hizmetlerini yürütmekteyiz. Hafta içi cumartesi dahil olmak üzere satış ve servis hizmeti alabilirsiniz. Her günü  satış mağazamız açıktır, teknik servis hizmetimiz vardır.",
+    "stock": 1,
+    "imgSource": "./assets/images/products/fırın2.jpg",
+    "htmlSource": "./assets/product_links/firin2.html",
+    "type": "FIRIN"
+  }
+]

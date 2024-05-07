@@ -1,0 +1,183 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+* {
+  font-family: "Montserrat", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --black: #1c2a39;
+  --gray: #5c6a79;
+  --purple: #4c3db2;
+}
+
+
+.navbar{
+  height: 120px;
+  width: 80%;
+  margin-left: 10%;
+}
+.title{
+  font-weight: bold;
+}
+.menu, .menu_icons{
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  color: var(--black);
+  cursor: pointer;
+}
+.menu li a{
+  color: var(--black);
+  text-decoration: none;
+}
+.menu .active{
+  color: white;
+  font-weight: bold;
+}
+.menu a:hover{
+  color: white;
+  box-shadow: #000000;
+}
+
+.menu li,.menu_icons li{
+  margin : 0 10px;
+}
+.menu_icons li{
+  color :var(--black);
+}
+
+.sepet_icon{
+  position: relative;
+}
+
+body {
+  background: var(--gray);
+  max-width: 100%;
+  height: 100vh;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .contact_data {
+  background: #fff;
+  width: 600px;
+  border-radius: 02px;
+  border-top: 04px solid var(--gray);
+  margin: 0 10px;
+}
+
+.container .contact_data form {
+  padding: 0 1rem;
+}
+
+.container .contact_data form input,
+textarea {
+  width: 95%;
+  margin: 05px 0 0 10px;
+  padding: 07px 10px;
+  border: 1px solid #ddd;
+  font-size: 1rem;
+  border-radius: 05px;
+}
+
+.container .contact_data h2 {
+  margin: 1.5rem;
+  border-bottom: 0.2rem var(--gray) solid;
+  width: 25%;
+}
+
+.container .contact_data label {
+  display: block;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.container .contact_data button {
+  margin: 20px 10px;
+  border: none;
+  padding: 10px 20px;
+  background: var(--gray);
+  font-size: 1rem;
+  border-radius: 05px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.container .contact_data button:hover {
+  background: var(--purple);
+  transition: 0.3s;
+  color: #fff;
+}
+
+.container .contact_data2 {
+  background: #fff;
+  border-radius: 02px;
+  border-top: 04px solid var(--gray);
+  width: 400px;
+  margin: 0 10px;
+}
+
+.container .contact_data2 ul {
+  list-style: none;
+}
+
+.container .contact_data2 ul li {
+  margin: 1.5rem 1rem;
+}
+
+.container .contact_data2 ul li i {
+  font-size: 1.4rem;
+  color: var(--gray);
+}
+
+.container .contact_data2 ul li strong {
+  margin-left: 10px;
+  font-size: 1.2rem;
+}
+
+.container .contact_data2 ul li p {
+  font-size: 14px;
+  margin-left: 35px;
+}
+
+.container .contact_data2 .map iframe {
+  width: 90%;
+  height: 280px;
+  margin: 0 1rem;
+}
+.contact_data2_ul{
+  padding-left: 5px;
+}
+
+@media (max-width: 1037px) {
+  .container .contact_data,
+  .contact_data2 {
+    width: 80%;
+    margin: 10px 0px;
+  }
+  .container .contact_data h2 {
+    width: 50%;
+  }
+}
+
+@media (max-width: 768px) {
+  .container .contact_data2 {
+    width: 75%;
+    margin: 10px 0px;
+  }
+  .container .contact_data h2 {
+    width: 50%;
+  }
+}
+
+
